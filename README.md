@@ -1,6 +1,6 @@
 # Pasar Splendid Malang
 
-Web admin Pasar Splendid yang diselaraskan dengan sembilan referensi layar: login, dashboard, empat sektor pasar, forum komunitas, peta lokasi, dan pengaturan.
+Web admin Pasar Splendid 
 
 ## Menjalankan proyek
 
